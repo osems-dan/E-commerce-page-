@@ -1,0 +1,1 @@
+this project is just to show basic webpage with html css and javascript(with the use of DOM manipulation)
